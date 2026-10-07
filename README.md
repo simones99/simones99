@@ -11,18 +11,13 @@ I am interested in public-sector and official statistics: turning administrative
 | Project | What it shows |
 |---|---|
 | [eu-stats-pipeline](https://github.com/simones99/eu-stats-pipeline) | Eurostat SDMX ingestion with file-level lineage, dbt models on DuckDB, 27 validation rules including regional–national coherence, an ESS-structured quality report, a generated data dictionary and a NUTS 2 dashboard |
+| [marche-regional-stats](https://github.com/simones99/marche-regional-stats) | Marche region: business-register checks on constant boundaries, NUTS 3 indicators and maps from Eurostat, SARIMA forecast evaluated out of sample, Power BI reports |
 | [eu-silc-sdc](https://github.com/simones99/eu-silc-sdc) | Statistical disclosure control in R (sdcMicro, sdcTable) on EU-SILC public microdata: re-identification risk, three protection scenarios, information loss on poverty and income indicators, audited cell suppression for a magnitude table |
 | [juve-momentum-index](https://github.com/simones99/juve-momentum-index) | Football data platform (FastAPI, PostgreSQL, Next.js): scheduled ingestion, Elo ratings, calibrated win/draw/loss probabilities backtested against baselines |
 | [bloodio](https://github.com/simones99/bloodio) | Local-first web app that parses lab-report PDFs in the browser, validates and normalises values and charts trends; privacy by design, [live demo](https://simones99.github.io/bloodio/) |
 | [csv_ai_agent](https://github.com/simones99/csv_ai_agent) | Querying CSV files in natural language with a local LLM; data validation and outlier checks; tested with CI |
 | [goal-line-calibration](https://github.com/simones99/goal-line-calibration) | Walk-forward evaluation of Elo, Dixon–Coles, logistic regression and XGBoost forecasts against de-margined bookmaker odds on 45,000 matches: frozen hyperparameters, paired bootstrap, calibration, [published report](https://simones99.github.io/goal-line-calibration/) |
 | [employee-attrition-prediction](https://github.com/simones99/employee-attrition-prediction) | Capstone case study (Salifort Motors): EDA, logistic regression and random forest on HR data, with an executive summary |
-
-<!--
-Rows to add once each repository is public (see TODO.md):
-
-| [marche-regional-stats](https://github.com/simones99/marche-regional-stats) | Marche region: business-register checks on constant boundaries, NUTS 3 indicators and maps from Eurostat, SARIMA forecast evaluated out of sample, Power BI reports |
--->
 
 ## Languages
 
