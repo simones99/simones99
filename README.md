@@ -17,6 +17,7 @@ I am interested in public-sector and official statistics: turning administrative
 | [bloodio](https://github.com/simones99/bloodio) | Local-first web app that parses lab-report PDFs in the browser, validates and normalises values and charts trends; privacy by design, [live demo](https://simones99.github.io/bloodio/) |
 | [ai-radar](https://simones99.github.io/ai-radar/) | Weekly automated dashboard on open AI data: a Python pipeline on GitHub Actions collects arXiv, GitHub, job-ads and Eurostat indicators, a Svelte front end on GitHub Pages; 75 tests, every source licensed and cited ([repository](https://github.com/simones99/ai-radar)) |
 | [goal-line-calibration](https://github.com/simones99/goal-line-calibration) | Walk-forward evaluation of Elo, Dixon–Coles, logistic regression and XGBoost forecasts against de-margined bookmaker odds on 45,000 matches: frozen hyperparameters, paired bootstrap, calibration, [published report](https://simones99.github.io/goal-line-calibration/) |
+
 ## Languages
 
 Italian (native) · English (C2) · French (C1) · Spanish (C1)
